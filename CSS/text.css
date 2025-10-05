@@ -1,0 +1,44 @@
+.tahoma {
+        font-family: Tahoma, sans-serif;
+        font-size: 23px;
+        color: #333;
+        font-weight: bold;
+    }
+    .Arial {
+        font-family: Arial, sans-serif;
+        font-size: 23px;
+        color: #333;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+    .red {
+        color: red;
+        font-family: Arial;
+        font-size: 16px;
+        margin-top: 0px;
+    }
+    .money{
+        font-family: arial;
+        font-size: 25px;
+        margin-bottom: 4px;
+    }
+    .usd{
+        color: grey;
+        font-size: 16px;
+    }
+    .green{
+        color: green;
+        font-family: Arial;
+        font-size: 16px;
+        margin-top: 0px;
+        margin-bottom: 2px;
+    }
+    .red2{
+        color: grey;
+        font-family: Arial;
+        font-size: 16px;
+        margin-top: 4px;
+    }
+    .red3{
+        color: red;
+    }
