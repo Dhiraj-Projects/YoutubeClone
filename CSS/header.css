@@ -123,14 +123,7 @@
     display: none;  /* completely hides the element */
   }
   .search-button{
-    border-top-left-radius: 20px;
-  border-bottom-left-radius: 20px;
-  max-width: 50px;
-  height: 40px;
-  width: 40px;
-  border: none;
-  border-radius: 20px;;
-  background-color: rgb(245, 245, 245);
+    width: 45px;
   }
 }
 .voice-search-button{
