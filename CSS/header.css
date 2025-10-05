@@ -125,8 +125,7 @@
   .search-button{
     width: 45px;
   }
-}
-.voice-search-button{
+  .voice-search-button{
   display: none;
 }
 .hamburger-menu{
@@ -145,4 +144,6 @@
 
 .middle-section{
   margin-right: 5px;
+}
+
 }
