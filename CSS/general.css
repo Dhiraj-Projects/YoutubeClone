@@ -9,3 +9,10 @@ body{
     padding-left: 80px;
     padding-right: 18px;;
 }    
+
+/* Hide element when screen width is 600px or less */
+@media (max-width: 600px) {
+  body{
+    padding-left: 20px;  /* completely hides the element */
+  }
+}

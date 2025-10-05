@@ -31,3 +31,10 @@
   font-family: Roboto, Arial;
   font-size: 10px;
 }
+
+/* Hide element when screen width is 600px or less */
+@media (max-width: 600px) {
+  .sidebar {
+    display: none;  /* completely hides the element */
+  }
+}
